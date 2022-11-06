@@ -1,0 +1,4 @@
+Considere o circuito da Figura 2. Desenhe seu esquem ́atico utilizando as c ́elulas
+DF3, NAND22. Como sinal de entrada deve colocar o clock e D; como sinal de
+sa ́ıda, Q. Gere o s ́ımbolo para a c ́elula e fa ̧ca todas as verifica ̧c ̃oes necess ́arias.
+Certifique-se que n ̃ao haja erros ou warnings.
